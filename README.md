@@ -1,4 +1,4 @@
-Phishing URL Detector
+#Phishing URL Detector
 
 A rule-based Python tool that analyzes URLs for common phishing indicators — IP-based domains, brand impersonation, URL shorteners, suspicious keywords, and more — and returns a risk score (Low / Medium / High).
 
